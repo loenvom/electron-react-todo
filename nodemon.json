@@ -1,0 +1,11 @@
+{
+  "watch": [
+    "./*.json",
+    "./src/main.ts"
+  ],
+  "exec": "electron .",
+  "ext": "json,ts",
+  "env": {
+    "ENV": "develop"
+  }
+}

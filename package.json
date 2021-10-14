@@ -1,0 +1,19 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "electron starter",
+  "main": "./src/main.ts",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "zhangyehao",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.1.2",
+    "electron-reload": "^2.0.0-alpha.1",
+    "nodemon": "^2.0.13"
+  }
+}
